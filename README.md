@@ -1,0 +1,4 @@
+uyeliksinifi
+============
+
+PHP Üyelik Sınıfı
